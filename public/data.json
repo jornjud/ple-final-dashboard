@@ -1,0 +1,31 @@
+{
+  "last_updated": "2026-02-11T12:00:00Z",
+  "exchange_rate": 35,
+  "usage": {
+    "total_tokens": 1250000,
+    "total_cost_thb": 43.75
+  },
+  "pricing": [
+    {
+      "model": "GPT-4o",
+      "input_1k_usd": 0.005,
+      "output_1k_usd": 0.015,
+      "input_1k_thb": 0.175,
+      "output_1k_thb": 0.525
+    },
+    {
+      "model": "Claude 3.5 Sonnet",
+      "input_1k_usd": 0.003,
+      "output_1k_usd": 0.015,
+      "input_1k_thb": 0.105,
+      "output_1k_thb": 0.525
+    },
+    {
+      "model": "Gemini 1.5 Pro",
+      "input_1k_usd": 0.0035,
+      "output_1k_usd": 0.0105,
+      "input_1k_thb": 0.1225,
+      "output_1k_thb": 0.3675
+    }
+  ]
+}
